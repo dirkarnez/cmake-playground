@@ -4,6 +4,7 @@ CMake Playground
 - [ ] macro
 - [ ] include
 - [ ] json file
+  - [**json - CMakeLists parse file - Stack Overflow**](https://stackoverflow.com/questions/46703437/cmakelists-parse-file)
   - [sbellus/json-cmake: JSON parser for CMake](https://github.com/sbellus/json-cmake)
 - [ ] Cache
   - [CMake Cache — Mastering CMake](https://cmake.org/cmake/help/book/mastering-cmake/chapter/CMake%20Cache.html)
